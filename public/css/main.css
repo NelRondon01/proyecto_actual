@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: "Circular Std";
+}
+
+body {
+  width: 100vw;
+  min-height: 100vh;
+  background: #f2f2f2;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Circular Std Bold";
+}
+
+header {
+  width: 100%;
+  height: 80px;
+  background: #112D4E;
+  padding: 0 30px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+header .logo {
+  color: #fff;
+  font-family: "Circular Std Bold";
+  font-size: 1.4em;
+}
+header ul {
+  list-style-type: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+header ul li {
+  margin: 0 10px;
+}
+header ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+section.main {
+  width: 100%;
+  height: 100vh;
+  padding-top: 80px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+section.main h1 {
+  font-size: 3em;
+}
+section.main table {
+  padding: 40px 30px;
+  width: 100%;
+}
+section.main table tr td.number {
+  text-align: center;
+}

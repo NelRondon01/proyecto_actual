@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1400"
+   height="900"
+   viewBox="0 0 370.41667 238.125"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="boceto.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     id="style7120">
+#rect6843 { 
+    box-shadow:0 6.4px 14.4px 0 rgba(0 0 0 .12);
+}
+</style>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     width="1400px"
+     inkscape:snap-page="true"
+     inkscape:zoom="0.56113974"
+     inkscape:cx="301.17275"
+     inkscape:cy="363.54581"
+     inkscape:window-width="1280"
+     inkscape:window-height="962"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1427"
+       x="-0.0089962571"
+       y="-0.059117393"
+       width="1.0179925"
+       height="1.169552">
+      <feFlood
+         flood-opacity="0.101961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1417" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1419" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.2"
+         result="blur"
+         id="feGaussianBlur1421" />
+      <feOffset
+         dx="-2.77556e-17"
+         dy="2.5"
+         result="offset"
+         id="feOffset1423" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1425" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#f9f7f7;fill-opacity:1;stroke:none;stroke-width:0.956183;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="rect846"
+       width="338.66666"
+       height="238.125"
+       x="31.75"
+       y="0" />
+    <rect
+       style="opacity:1;fill:#112d4e;fill-opacity:1;stroke:none;stroke-width:1.00095;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="rect1195"
+       width="31.75"
+       height="238.125"
+       x="0"
+       y="0" />
+    <circle
+       style="opacity:1;fill:#dbe2ef;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="path4382"
+       cx="15.875"
+       cy="17.391151"
+       r="9.6989117" />
+    <circle
+       style="opacity:1;fill:#dbe2ef;fill-opacity:1;stroke:none;stroke-width:0.487957;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="circle6809"
+       cx="15.875"
+       cy="44.587326"
+       r="4.7326536" />
+    <circle
+       style="opacity:1;fill:#dbe2ef;fill-opacity:1;stroke:none;stroke-width:0.487957;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="circle6811"
+       cx="15.875"
+       cy="63.269917"
+       r="4.7326536" />
+    <circle
+       style="opacity:1;fill:#dbe2ef;fill-opacity:1;stroke:none;stroke-width:0.487957;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="circle6813"
+       cx="15.875"
+       cy="82.425484"
+       r="4.7326536" />
+    <circle
+       style="opacity:1;fill:#dbe2ef;fill-opacity:1;stroke:none;stroke-width:0.487957;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="circle6815"
+       cx="15.875"
+       cy="100.16212"
+       r="4.7326536" />
+    <circle
+       style="opacity:1;fill:#dbe2ef;fill-opacity:1;stroke:none;stroke-width:0.487957;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="circle6817"
+       cx="15.875"
+       cy="115.77036"
+       r="4.7326536" />
+    <circle
+       style="opacity:1;fill:#dbe2ef;fill-opacity:1;stroke:none;stroke-width:0.487957;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="circle6819"
+       cx="15.875"
+       cy="133.03403"
+       r="4.7326536" />
+    <rect
+       style="stop-color:#000000;stroke-linejoin:round;stroke-linecap:round;stroke-width:1.01888;fill-opacity:1;fill:#f9f7f7;opacity:1;filter:url(#filter1427)"
+       id="rect6843"
+       width="320.13315"
+       height="48.716629"
+       x="41.016754"
+       y="9.9325161" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:'Circular Std Black';fill:#112d4e;fill-opacity:1;stroke:none;stroke-width:0.264583;-inkscape-font-specification:'Circular Std Black, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="46.208038"
+       y="24.047041"
+       id="text2894"><tspan
+         sodipodi:role="line"
+         id="tspan2892"
+         style="stroke-width:0.264583;-inkscape-font-specification:'Circular Std Black, Normal';font-family:'Circular Std Black';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.58330002px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#112d4e;fill-opacity:1"
+         x="46.208038"
+         y="24.047041">Bienvenido, Nel Rondon</tspan></text>
+    <image
+       width="105.83334"
+       height="105.83334"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQBAMAAABykSv/AAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAD1BMVEX59/fb4u8/cq8RLU7/
+//+qtaffAAAAAWJLR0QEj2jZUQAAAAd0SU1FB+YEFAwaGIxpr94AAAEvSURBVHja7c8BDcAwAASh
+WqiFWph/b7Nx+YADzgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJtwRIjUiNSI1IjUi
+NSI1IjUiNSI1IjUiNSI1IjUiNSI1IjUiNSI1IjUiNSI1IjUiNSI1IjUiNSI1IjUiNSI1IjUiNSI1
+IjUiNSI1IjUiNSI1IjUiNSI1IjUiNSI1IjUiNSI1IjUiNSI1O5E3QqRGpEakRqRGpEakRqRGpEak
+RqRGpEakRqRGpEakRqRGpEakRqRGpEakRqRGpEakRqRGpEakRqRGpEakRqRGpEakRqRGpGYn8o0Q
+qRGpEakRqRGpEakRqRGpEakRqRGpEakRqRGpEakRqRGpEakRqRGpEakRqRGpEakRqRGpEakRqRGp
+mYn8YHc1q1g8ca4AAAAASUVORK5CYII=
+"
+       id="image3716"
+       x="30.069193"
+       y="-132.13046" />
+  </g>
+</svg>
